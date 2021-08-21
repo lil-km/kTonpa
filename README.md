@@ -2,8 +2,8 @@
 
  I am Khalil.
 
-![Khalil's github stats](https://github-readme-stats.vercel.app/api?username=7khalil&count_private=true&hide=issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7khalil&layout=compact)
+![Khalil's github stats](https://github-readme-stats.vercel.app/api?username=kTonpa&count_private=true&hide=issues)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kTonpa&layout=compact)
 
 <!--
 **7khalil/7khalil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
